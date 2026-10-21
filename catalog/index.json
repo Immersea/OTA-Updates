@@ -6,6 +6,11 @@
       "appId": "immersea-pico-player-unity",
       "displayName": "Immersea VR Player",
       "stableManifest": "catalog/apps/immersea-pico-player-unity.json"
+    },
+    {
+      "appId": "immersea-vr-controller",
+      "displayName": "Immersea VR Controller",
+      "candidateManifest": "catalog/apps/immersea-vr-controller.candidate.json"
     }
   ]
 }
