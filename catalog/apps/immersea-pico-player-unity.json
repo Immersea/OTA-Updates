@@ -3,8 +3,8 @@
   "appId": "immersea-pico-player-unity",
   "displayName": "Immersea VR Player",
   "packageId": "com.immersea.vr.player",
-  "build": 41,
-  "version": "0.3.1",
+  "build": 44,
+  "version": "0.3.2",
   "signerSha256": "ca679b74a759dcfef2f3e434406e81a5f9650b8048bd2057eb16408aa789d6dd",
   "channel": "stable",
   "platform": "android",
@@ -15,25 +15,16 @@
   "minSdk": 29,
   "targetSdk": 32,
   "asset": {
-    "name": "Immersea-VR-Player-0.3.1-build41-ocean-wifi.apk",
-    "bytes": 51430322,
-    "sha256": "adaa5d8ebf6e6a7cafb1dc13d7c97600315440b4a101764dcd754201f5ee4ed3"
+    "name": "Immersea-VR-Player-0.3.2-build44.apk",
+    "bytes": 51521227,
+    "sha256": "22c860fcd4fe26e118910b6ad2462f6ab120fcb6495737ca85581528e55f596e"
   },
-  "releaseTag": "immersea-pico-player-unity-v0.3.1-build41",
-  "releaseUrl": "https://github.com/Immersea/OTA-Updates/releases/tag/immersea-pico-player-unity-v0.3.1-build41",
-  "downloadUrl": "https://github.com/Immersea/OTA-Updates/releases/download/immersea-pico-player-unity-v0.3.1-build41/Immersea-VR-Player-0.3.1-build41-ocean-wifi.apk",
+  "releaseTag": "immersea-pico-player-unity-v0.3.2-build44",
+  "releaseUrl": "https://github.com/Immersea/OTA-Updates/releases/tag/immersea-pico-player-unity-v0.3.2-build44",
+  "downloadUrl": "https://github.com/Immersea/OTA-Updates/releases/download/immersea-pico-player-unity-v0.3.2-build44/Immersea-VR-Player-0.3.2-build44.apk",
   "source": {
     "repository": "Immersea/monorepo",
-    "buildDate": "2026-10-20",
-    "buildReceipt": "Immersea-VR-Player-0.3.1-build41.json",
-    "gitCommit": null,
-    "note": "Prebuilt operational package; do not attribute it to the current monorepo HEAD."
-  },
-  "validation": {
-    "packageIntegrity": "verified",
-    "sameSignerUpdate": "verified",
-    "identityAndMediaRetention": "verified on PICO G3 #5",
-    "agentConnection": "online, version 41, no reported errors on PICO G3 #5",
-    "visualPlayback": "not verified in the new-headset installation"
+    "gitCommit": "d0f1812ad701e4b98a4cddc0b3335899db5f5472",
+    "dirty": true
   }
 }
