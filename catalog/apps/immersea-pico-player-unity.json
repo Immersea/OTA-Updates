@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "appId": "immersea-pico-player-unity",
+  "displayName": "Immersea VR Player",
+  "version": "0.3.1",
+  "build": 41,
+  "channel": "stable",
+  "platform": "android",
+  "architecture": "arm64-v8a",
+  "packageId": "com.immersea.vr.player",
+  "minSdk": 29,
+  "targetSdk": 32,
+  "supportedModels": [
+    "PICO G3"
+  ],
+  "signerSha256": "ca679b74a759dcfef2f3e434406e81a5f9650b8048bd2057eb16408aa789d6dd",
+  "asset": {
+    "name": "Immersea-VR-Player-0.3.1-build41-ocean-wifi.apk",
+    "bytes": 51430322,
+    "sha256": "adaa5d8ebf6e6a7cafb1dc13d7c97600315440b4a101764dcd754201f5ee4ed3"
+  },
+  "releaseTag": "immersea-pico-player-unity-v0.3.1-build41",
+  "releaseUrl": "https://github.com/Immersea/OTA-Updates/releases/tag/immersea-pico-player-unity-v0.3.1-build41",
+  "downloadUrl": "https://github.com/Immersea/OTA-Updates/releases/download/immersea-pico-player-unity-v0.3.1-build41/Immersea-VR-Player-0.3.1-build41-ocean-wifi.apk",
+  "validation": {
+    "packageIntegrity": "verified",
+    "sameSignerUpdate": "verified",
+    "identityAndMediaRetention": "verified on PICO G3 #5",
+    "agentConnection": "online, version 41, no reported errors on PICO G3 #5",
+    "visualPlayback": "not verified in the new-headset installation"
+  },
+  "source": {
+    "repository": "Immersea/monorepo",
+    "buildDate": "2026-10-20",
+    "buildReceipt": "Immersea-VR-Player-0.3.1-build41.json",
+    "gitCommit": null,
+    "note": "Prebuilt operational package; do not attribute it to the current monorepo HEAD."
+  }
+}

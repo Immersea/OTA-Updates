@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "repository": "Immersea/OTA-Updates",
+  "apps": [
+    {
+      "appId": "immersea-pico-player-unity",
+      "displayName": "Immersea VR Player",
+      "stableManifest": "catalog/apps/immersea-pico-player-unity.json"
+    }
+  ]
+}
