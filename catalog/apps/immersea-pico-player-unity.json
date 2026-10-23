@@ -3,8 +3,8 @@
   "appId": "immersea-pico-player-unity",
   "displayName": "Immersea VR Player",
   "packageId": "com.immersea.vr.player",
-  "build": 57,
-  "version": "1.0.0",
+  "build": 58,
+  "version": "1.0.1",
   "signerSha256": "ca679b74a759dcfef2f3e434406e81a5f9650b8048bd2057eb16408aa789d6dd",
   "channel": "stable",
   "platform": "android",
@@ -16,15 +16,15 @@
   "targetSdk": 32,
   "asset": {
     "name": "ImmerseaVR-G3-development.apk",
-    "bytes": 51809610,
-    "sha256": "1bfe717e9e5c24a0e4ec3fd4f336c3ce6a56dc3444f4d4ac03bc491bca1d98ed"
+    "bytes": 51828382,
+    "sha256": "071fde511f45bccbfd75bc8cf07a29113d3c17ac94cfbf1bfeb7d38531923050"
   },
-  "releaseTag": "immersea-pico-player-unity-v1.0.0-build57",
-  "releaseUrl": "https://github.com/Immersea/OTA-Updates/releases/tag/immersea-pico-player-unity-v1.0.0-build57",
-  "downloadUrl": "https://github.com/Immersea/OTA-Updates/releases/download/immersea-pico-player-unity-v1.0.0-build57/ImmerseaVR-G3-development.apk",
+  "releaseTag": "immersea-pico-player-unity-v1.0.1-build58",
+  "releaseUrl": "https://github.com/Immersea/OTA-Updates/releases/tag/immersea-pico-player-unity-v1.0.1-build58",
+  "downloadUrl": "https://github.com/Immersea/OTA-Updates/releases/download/immersea-pico-player-unity-v1.0.1-build58/ImmerseaVR-G3-development.apk",
   "source": {
     "repository": "Immersea/monorepo",
-    "gitCommit": "42a4344e9ae32d181e77b035de63c1862f42af7f",
+    "gitCommit": "6d84596297db4090141e17356cf7dd5db30540c6",
     "dirty": false
   }
 }
